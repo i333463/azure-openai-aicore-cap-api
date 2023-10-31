@@ -6,7 +6,7 @@ metadata:
     scenarios.ai.sap.com/description: "Azure OpenAI  Proxy"
     scenarios.ai.sap.com/name: "Azure OpenAI Proxy" # Scenario name should be the use case
     executables.ai.sap.com/description: "Azure OpenAI Completions Proxy as Inference"
-    executables.ai.sap.com/name: "azure-openai-proxy" # Executable name should describe the workflow in the use case
+    executables.ai.sap.com/name: "azure-openai-proxy-v2" # Executable name should describe the workflow in the use case
   labels:
     scenarios.ai.sap.com/id: "azure-openai-proxy-v2"
     ai.sap.com/version: "1.0"
